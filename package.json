@@ -17,7 +17,7 @@
     "url": "https://github.com/waterpure/herokutest/issues"
   },
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "joi": "^13.1.0"
   },
   "homepage": "https://github.com/waterpure/herokutest"
